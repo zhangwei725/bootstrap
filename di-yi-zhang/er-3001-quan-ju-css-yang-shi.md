@@ -93,8 +93,6 @@ Bootstrap 提供了一套响应式、移动设备优先的流式栅格系统，�
    * 列偏移只能往右走，而列排序（pull、push）既可以往右边走，也可以往左边走
    * 如果一行中有多列，offset偏移如果大的话，会换行再偏移，而push不会有这个问题，可以溢出父级的容器。
 
-
-
 ### 4、示例代码
 
 1. 基础使用
@@ -171,7 +169,6 @@ Bootstrap 提供了一套响应式、移动设备优先的流式栅格系统，�
      .row div{
        background: green;
        color: #fff;
-       height: 100px;
        border: 1px solid #000;
      }
    </style>
